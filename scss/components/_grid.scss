@@ -1,0 +1,8 @@
+.grid {
+  display: grid;
+  height: 100vh;
+  grid-template-rows: 61px auto 48px; // header, scroll-area, footer
+}
+
+.grid__hero-area {
+}

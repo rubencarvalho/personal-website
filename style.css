@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+header {
+    height: 100px;
+    background-color: hotpink;
+}
+
+.header__image {
+    height: 70px;
+    margin: 15px 0 0 15px;
+    box-shadow: 4px 4px 10px black;
+}
+
+.navigation-bar {
+    color: white;
+    margin: auto;
+}
+
+.article {
+    background-color: burlywood;
+    height: 500px;
+}
+
+.article__img {
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+}
+
+.article__content {
+    margin-top: 15px;
+}
+
+aside {
+    background-color: grey;
+}
+
+footer {
+    height: 200px;
+    background-color: teal;
+}
+
+.footer__content {
+    margin: auto;
+}
